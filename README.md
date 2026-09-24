@@ -59,14 +59,14 @@
 ### <font color="#00BFFF">▌│█║▌║▌║ SECURE_CONNECTION ║▌║▌║█│▌</font>
 
 <p align="center">
-  <a href="[YOUR_LINKEDIN_URL]">
+  <a href="https://www.linkedin.com/in/carlos-zamora-n">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:[YOUR_EMAIL]">
+  <a href="mailto:metawiser@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="[YOUR_PORTFOLIO_URL]">
-    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"/>
+  <a href="carloszamora.dev">
+    <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Web Profile"/>
   </a>
 </p>
 
