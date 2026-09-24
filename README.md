@@ -9,7 +9,7 @@
   "id": "METAWISER",
   "class": "Software Craftman",
   "level": "S",
-  "status": "Experienced Software Engineer @MediamarktSaturn.",
+  "status": "Senior Software Engineer @MediamarktSaturn.",
   "location": "A Beautifull Remote Place on Earth",
   "core_directive": "Leveling up skills and building the future, one commit at a time."
 }
@@ -65,7 +65,7 @@
   <a href="mailto:metawiser@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="carloszamora.dev">
+  <a href="https://carloszamora.dev">
     <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=react&logoColor=white" alt="Web Profile"/>
   </a>
 </p>
